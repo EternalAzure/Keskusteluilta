@@ -5,7 +5,8 @@ voidaan kriisin tullen hankkia ulkomailta. Huoltovarmuudesta väitöskirjan tehn
 lippueamiraali Bo Österlund varoittaa, että merikuljetusketjun toiminta ei </br>
 kuitenkaan ole sataprosenttisen varma kaikissa oloissa.</br>
 
-![Bo Österlund](https://github.com/EternalAzure/Keskusteluilta/blob/main/Huoltovarmuus/kuvat/yle.avif)
+<img src="https://github.com/EternalAzure/Keskusteluilta/blob/main/Huoltovarmuus/kuvat/yle.avif" alt="Bo Österlund" width="400"/>
+
 
 – Yli kahdeksankymmentä prosenttia ulkomaankaupasta tulee meritse tai lähtee meritse. </br>
 Mitä tapahtuu, jos meillä ei tätä reittiä ole käytössä? Yhden konttilaivan lasti vaatii </br>
@@ -25,4 +26,4 @@ koronan seurauksena. Pelkän rahdin kuljettaminen olisi varustamoille tappiollis
 Tavanomaisten merenkulun tukien lisäksi valtio joutui lupaamaan kymmenien miljoonien </br>
 eurojen väliaikaisen tuen varustamoille, jotta laivat pysyivät liikenteessä.</br>
 
-![Varastot](https://github.com/EternalAzure/Keskusteluilta/blob/main/Huoltovarmuus/kuvat/Varastojen%20sis%C3%A4lt%C3%B6.avif)
+<img src="https://github.com/EternalAzure/Keskusteluilta/blob/main/Huoltovarmuus/kuvat/yle.avif" alt="Varastojen sisältö" width="400"/>
