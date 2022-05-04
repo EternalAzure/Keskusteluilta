@@ -4,4 +4,4 @@
 
 [Energia](https://github.com/EternalAzure/Keskusteluilta/blob/main/Huoltovarmuus/kirjoitukset/Energia.md)
 
-
+[Maataloustuet](https://github.com/EternalAzure/Keskusteluilta/blob/main/Huoltovarmuus/kirjoitukset/Maataloustuet.md)
