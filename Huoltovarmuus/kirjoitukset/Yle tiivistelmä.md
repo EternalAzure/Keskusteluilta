@@ -26,4 +26,4 @@ koronan seurauksena. Pelkän rahdin kuljettaminen olisi varustamoille tappiollis
 Tavanomaisten merenkulun tukien lisäksi valtio joutui lupaamaan kymmenien miljoonien </br>
 eurojen väliaikaisen tuen varustamoille, jotta laivat pysyivät liikenteessä.</br>
 
-<img src="https://github.com/EternalAzure/Keskusteluilta/blob/main/Huoltovarmuus/kuvat/yle.avif" alt="Varastojen sisältö" width="400"/>
+<img src="https://github.com/EternalAzure/Keskusteluilta/blob/main/Huoltovarmuus/kuvat/Varastojen%20sis%C3%A4lt%C3%B6.avif" alt="Varastojen sisältö" width="400"/>
