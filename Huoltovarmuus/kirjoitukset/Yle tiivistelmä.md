@@ -2,7 +2,7 @@
 
 Suomen huoltovarmuusmalli perustuu pitkälti siihen, että puuttuvia tarvikkeita voidaan kriisin tullen hankkia ulkomailta. Huoltovarmuudesta väitöskirjan tehnyt lippueamiraali Bo Österlund varoittaa, että merikuljetusketjun toiminta ei kuitenkaan ole sataprosenttisen varma kaikissa oloissa.
 
-[KUVA]
+[KUVA](https://github.com/EternalAzure/Keskusteluilta/blob/main/Huoltovarmuus/kuvat/yle.avif)
 
 – Yli kahdeksankymmentä prosenttia ulkomaankaupasta tulee meritse tai lähtee meritse. Mitä tapahtuu, jos meillä ei tätä reittiä ole käytössä? Yhden konttilaivan lasti vaatii tuhat rekkaa, eikä niitä kaikkia voi Ruotsin kautta ajaa – tämä on mahdoton yhtälö, hän sanoo.
 

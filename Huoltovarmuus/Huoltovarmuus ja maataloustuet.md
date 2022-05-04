@@ -1,4 +1,5 @@
 # Huoltovarmuus ja maataloustuet
 
-[Yle - Ruoka puuttuu varastoista](https://yle.fi/uutiset/3-11822490?utm_medium=social&utm_source=copy-link-share)
-[]()
+[Yle - Kuljetukset laivojen varassa](https://github.com/EternalAzure/Keskusteluilta/blob/main/Huoltovarmuus/kirjoitukset/Yle%20tiivistelm%C3%A4.md)
+
+
