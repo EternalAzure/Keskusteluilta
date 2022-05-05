@@ -1,3 +1,5 @@
+_Lukuaika 2min_
+
 Hyväksytyn talousarvion loppusumma on __65 miljardia euroa__. </br>
 Vuoden 2022 lopussa valtionvelan arvioidaan olevan noin 144 miljardia euroa, </br>
 mikä on noin 55 prosenttia suhteessa bruttokansantuotteeseen. </br>
@@ -8,7 +10,7 @@ __noin kaksi miljardia euroa__ vuonna 2021. Summasta __EU-rahoitusta </br>
 on noin 48 %__. Maatalouden ja maaseudun kehittämisen rahoitus </br>
 muodostavat __kaksi kolmasosaa__ Suomen vuosittain saamasta EU-rahoituksesta. </br>
 
-__Valtaosa oli viljelijätukia, joita maksettiin __1,75 miljardia euroa__. </br>
+__Valtaosa oli viljelijätukia, joita maksettiin 1,75 miljardia euroa__. </br>
 Ilman viljelijätukia kotimainen ruoantuotanto ei olisi Suomen oloissa </br>
 mahdollista nykyisessä laajuudessa. Viljelijätuilla turvataan kotimainen </br>
 ruoantuotanto ja kohtuuhintaiset elintarvikkeet kuluttajille. Suomalaiset </br>
@@ -18,7 +20,7 @@ Luonnonvarakeskuksen arvion mukaan __noin 70 prosenttia ruoasta on kotimaista__.
 ## Tuet alueittain
 Maa- ja puutarhatalouden tukia maksetaan __322,9 milj. euroa__. </br>
 93% on pohjoista tukea. </br>
-5% on etelöistä tukea. </br>
+5% on eteläistä tukea. </br>
 2% muuta kansallista tukea, </br>
 josta valta osa menee vahvistetusti sokerijuurikkaan kasvatukseen.
 
