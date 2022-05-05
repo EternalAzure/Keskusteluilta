@@ -1,4 +1,6 @@
 ## Kuljetukset laivojen varassa – asiantuntija huolissaan ulkomaisen omistuksen kasvusta
+_Lukuaika 2,5min_
+
 Suomen huoltovarmuusmalli perustuu pitkälti siihen, että puuttuvia tarvikkeita </br>
 voidaan kriisin tullen hankkia ulkomailta. Huoltovarmuudesta väitöskirjan tehnyt </br>
 lippueamiraali Bo Österlund varoittaa, että merikuljetusketjun toiminta ei </br>
