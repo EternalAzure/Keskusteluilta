@@ -15,14 +15,16 @@ Ilman viljelijätukia kotimainen ruoantuotanto ei olisi Suomen oloissa </br>
 mahdollista nykyisessä laajuudessa. Viljelijätuilla turvataan kotimainen </br>
 ruoantuotanto ja kohtuuhintaiset elintarvikkeet kuluttajille. Suomalaiset </br>
 syövät pääasiassa kotimaassa tuotettua ruokaa: </br>
-Luonnonvarakeskuksen arvion mukaan __noin 70 prosenttia ruoasta on kotimaista__.
+Luonnonvarakeskuksen arvion mukaan __noin 70 prosenttia ruoasta on kotimaista__. </br>
+[ruokavirasto](https://www.ruokavirasto.fi/tietoa-meista/uutiset/tuet-varmistavat-kotimaisen-ruoan-riittavyyden-ja-kehittavat-maaseudun-palveluita/)
 
 ## Tuet alueittain
 Maa- ja puutarhatalouden tukia maksetaan __322,9 milj. euroa__. </br>
 93% on pohjoista tukea. </br>
 5% on eteläistä tukea. </br>
 2% muuta kansallista tukea, </br>
-josta valta osa menee vahvistetusti sokerijuurikkaan kasvatukseen.
+josta valta osa menee vahvistetusti sokerijuurikkaan kasvatukseen. </br>
+[ministeriö](https://valtioneuvosto.fi/-//1410837/hallitus-vahvisti-vuoden-2022-keskeiset-kansalliset-maataloustuet)
 
 ## Tuet aiheittain
 120 milj. kansalliseen luonnonhaittakorvaukseen </br>
@@ -35,3 +37,4 @@ __28 milj. investointitukia vaihtoehtoisiin energian lähteisiin ja huoltovarmuu
 __14,5 milj. biokaasumädätteiden kehittyneille käsittelytekniikoille__ </br>
 7 milj. maksuvalmiuslainojen valtiontakausten lisääminen </br>
 3,5 milj. ruokaviraston tietojärjestelmät </br>
+[ministeriö](https://mmm.fi/-/varautumisen-ministerityoryhma-paatti-toimista-maatalouden-huoltovarmuuden-turvaamiseksi)
